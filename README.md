@@ -6,3 +6,5 @@ imitated-seed-skin-liberty 스킨을 가져온 후 수정하였습니다.<br>
 그냥 개조하다 보니 되었
 ## 개조된 내용
 추가 예정.
+## 저작권 표시
+[도구 아이콘 출처](https://github.com/namu-theseed/theseed-skin-liberty/pull/69)
