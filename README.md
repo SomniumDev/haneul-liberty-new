@@ -1,6 +1,6 @@
 ## 개요
 Powered by [imitated-seed-skin-liberty](https://github.com/navyCarpet/imitated-skin-liberty.git)<br>
-베이스는 imitated-seed-skin-liberty에서 가져왔습니다.<br>
+imitated-seed-skin-liberty 스킨을 가져온 후 수정하였습니다.<br>
 하늘위키에서 사용 중인 개조된 리버티 스킨
 ## 개발 목적
 그냥 개조하다 보니 되었
